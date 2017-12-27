@@ -100,9 +100,7 @@ INSERT INTO `assignment` (`a_id`, `username`, `file_name`) VALUES
 (1, 'kazi', 'uploads/7a7afaba28.docx'),
 (2, 'kazi', 'uploads/36038d5bcc.docx'),
 (3, 'galib', 'uploads/7d79f159f0.docx'),
-(4, 'galib', 'uploads/f098757541.docx'),
-(5, 'basak', 'uploads/6bc5cd55ed.docx'),
-(6, 'basak', 'uploads/e6943f5108.docx');
+
 
 -- --------------------------------------------------------
 
