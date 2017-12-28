@@ -68,6 +68,7 @@ header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
 			<?php }else{?>
 			<li><a href="index.php">Login</a></li>
 			<li><a href="register.php">Register</a></li>
+			<li><a href="../virtual_classroom/admin/login.php">Admin Login</a></li>
 			<?php }?>
 			
 		</ul>
