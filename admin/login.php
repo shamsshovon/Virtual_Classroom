@@ -13,7 +13,12 @@
 
 <div class="main">
 <h1>Admin Login</h1>
+	<tr>
+				<td></td>
+				<td><a href="../index.php">back</a></td>
+			</tr>
 <div class="adminlogin">
+	
 	<form action="" method="post">
 		<table>
 			<tr>
